@@ -1,5 +1,6 @@
 # Csharp Corporate Backend Sample Project
 C# Kurumsal Backend Örnek Proje
+
 *Business
 
 *Code Generator
